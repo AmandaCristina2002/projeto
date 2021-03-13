@@ -1,0 +1,14 @@
+{
+    "name": "vendor/projeto",
+    "type": "y",
+    "authors": [
+        {
+            "name": "AmandaCristina2002",
+            "email": "amanda.dutra@escolar.ifrn.edu.br"
+        }
+    ],
+    "require": {},
+     "scripts":{
+     	"run":" $php index.php$"
+     } 
+}
